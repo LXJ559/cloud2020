@@ -1,0 +1,5 @@
+# Project exclude paths
+/shmily-admin/target/
+/shmily-eureka/target/
+/shmily-gateway/target/
+/shmily-user/target/
